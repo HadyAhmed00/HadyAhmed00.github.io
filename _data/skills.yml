@@ -1,30 +1,27 @@
 languages:
-  - C#
+  - Java
   - Kotlin
-  - Dart
-  - Typescript
+  - C++
+  - Python
   - HTML5
-  - CSS3 / Sass
+  - CSS3 
   - SQL
-  - GraphQL
+  - JavaScript
 
 frameworks:
-  - ASP.Net
-  - WPF
   - Android
-  - Flutter
-  - Express
-  - Apollo
-  - React
-  - Jekyll
+  - .nef 
+  - Viw
+  
+
 
 tools:
   - Git / GitHub
-  - Docker
+  - Databases
   - Firebase
   - Visual Studio
   - Visual Studio Code
   - Android Studio
-  - Linux
+  - Figma
   - Adobe Photoshop
   - Adobe Illustrator
