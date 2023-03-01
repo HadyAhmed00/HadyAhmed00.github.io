@@ -11,7 +11,7 @@ languages:
 frameworks:
   - Android
   - .nef 
-  - Viw
+  - Vue.js
   
 
 
