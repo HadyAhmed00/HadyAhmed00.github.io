@@ -1,7 +1,11 @@
-<svg id="identicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348.02 396">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:24px;}</style>
+    </defs>
     <title>Hady Ahemd</title>
-    <line class="cls-1" x1="100" x2="100" y2="1704.55"/>
-    <line class="cls-1" x1="759.09" x2="759.09" y2="1704.55"/>
-    <line class="cls-1" x1="131.82" y1="1008.68" x2="1283.15" y2="1008.68"/>
-    <line class="cls-1" x1="774.74" y1="49.74" x2="1675.14" y2="1622.66"/>
+    <g id="Layer_2" data-name="Layer 2">
+        <polyline class="cls-1" points="12.52 0.5 12.02 384 111.02 384 111.02 202 232.02 202 232.02 12 336.02 12 336.02 394.5"/>
+        <polyline class="cls-1" points="55.02 336 55.02 12 111.02 12 111.02 154 189.02 154"/>
+        <polyline class="cls-1" points="287.02 58 287.02 383 232.02 383 232.02 251 166.02 251"/>
+    </g>
 </svg>
