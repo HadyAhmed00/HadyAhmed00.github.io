@@ -1,138 +1,142 @@
-- name: LoForm
+- name: Blog App
   featured: true
-  url: https://YoussefRaafatNasry.github.io/lo_form/
+  url: https://github.com/HadyAhmed00/Blog_app
   description:
-    Lightweight and Low-code forms library for Flutter, that is inspired by the great React's Formik.
+    A Flutter blog application with sign-up, log-in, post creation and a feed
+    of existing entries. Backed by Supabase.
   tags:
-    - Dart
     - Flutter
+    - Dart
+    - Supabase
 
-- name: Attendit
-  url: https://github.com/YoussefRaafatNasry/attendit/
-  description:
-    Attendit is a SPA for exploring and booking events, at least for now. I use it as
-    a demo to learn Full-stack Development.
-  tags:
-    - Apollo GraphQL
-    - mongoDB
-    - React
-
-- name: Aljurythm
-  url: https://www.nuget.org/packages/Aljurythm/
-  description:
-    A code judge that I have created for my Algorithms Course's Assignments, to replace
-    boilerplate code and display better outputs. It's like a testing mini-library.
-  tags:
-    - C#
-    - NuGet Package Manager
-
-- name: Detoxicated
+- name: Expenses Calculator (KMP)
   featured: true
-  url: https://YoussefRaafatNasry.github.io/detoxicated/
+  url: https://github.com/HadyAhmed00/ExpensesCalculatorApp-KMP
   description:
-    Keeping track of my social media detox, time since I've left Facebook and Instagram.
-    I think you should try quitting it too.
+    Cross-platform expense management app built with Kotlin Multiplatform
+    and Compose Multiplatform — shared business logic across Android and iOS.
   tags:
-    - HTML
-    - CSS
+    - Kotlin Multiplatform
+    - Compose
+    - Android
 
-- name: otto
+- name: Movie App
   featured: true
-  url: https://YoussefRaafatNasry.github.io/otto/
+  url: https://github.com/HadyAhmed00/Movie-APP
   description:
-    otto is a smart mini-assistant that can reply "otto-matically" to basic messages
-    on chatting apps like WhatsApp, Messenger, etc. He can also do basic tasks like
-    adding received tracks to my on Spotify's liked songs.
+    Kotlin movie browser crafted as hands-on training in MVI architecture,
+    Retrofit networking and Jetpack components.
+  tags:
+    - Kotlin
+    - MVI
+    - Retrofit
+
+- name: Asteroid Radar
+  featured: true
+  url: https://github.com/HadyAhmed00/AsteroidRadar
+  description:
+    Udacity Advanced Android Nanodegree capstone — tracks near-Earth asteroids
+    via NASA's NeoWs API with offline cache and WorkManager scheduling.
   tags:
     - Kotlin
     - Android
-    - Spotify API
+    - WorkManager
 
-- name: portfolYOU
+- name: Bosta Android Task
   featured: true
-  url: https://YoussefRaafatNasry.github.io/portfolYOU/
+  url: https://github.com/HadyAhmed00/Bosta-Android-Task
   description:
-    portfolYOU is a free modern open-source Jekyll portfolio and blogging theme that works
-    with GitHub Pages with a plenty of elements and a lot of possible customizations.
+    Android coding challenge built in Kotlin showcasing MVVM, Retrofit
+    and clean separation of concerns.
   tags:
-    - Jekyll
+    - Kotlin
+    - Android
+    - MVVM
+
+- name: Nursery App
+  url: https://github.com/HadyAhmed00/NurseryApp
+  description:
+    Android app for managing a nursery — children, sessions and staff records,
+    written in Kotlin with Room persistence.
+  tags:
+    - Kotlin
+    - Android
+    - Room
+
+- name: Library Management System
+  url: https://github.com/HadyAhmed00/Library_Management_System
+  description:
+    Desktop-style library management system covering book catalogue,
+    members and borrow/return flows.
+  tags:
+    - Desktop
+    - Database
+
+- name: Accounting System
+  url: https://github.com/HadyAhmed00/Accunting-System-node-js
+  description:
+    Node.js + TypeScript accounting back-end with invoice and ledger endpoints.
+  tags:
+    - Node.js
+    - TypeScript
+    - REST API
+
+- name: Qareebeen
+  url: https://github.com/HadyAhmed00/qareebeen-nextjs
+  description:
+    Next.js front-end for the Qareebeen platform.
+  tags:
+    - Next.js
+    - React
+    - TypeScript
+
+- name: Queue System
+  url: https://github.com/HadyAhmed00/Queue-System
+  description:
+    Web-based queue management system for serving customers in order.
+  tags:
     - HTML
-    - Sass
-    - Ruby Gems
+    - JavaScript
 
-- name: ScoutsEncoder
-  featured: true
-  url: https://YoussefRaafatNasry.github.io/ScoutsEncoder/
+- name: Static APIs
+  url: https://github.com/HadyAhmed00/Static-APIs
   description:
-    A WPF application that encodes arabic plain text into scouts' ciphers with
-    a single button click. Usually scouts' leaders used to do the encoding using pen and paper.
+    Collection of static JSON endpoints used as quick mock data sources
+    for prototypes and demos.
   tags:
-    - WPF
+    - JSON
+    - Mock API
+
+- name: DSP Operations
+  url: https://github.com/HadyAhmed00/DSP-Operations
+  description:
+    Digital Signal Processing operations and visualisations implemented in Python
+    for the DSP course at Ain Shams University.
+  tags:
+    - Python
+    - DSP
+
+- name: Speech Recognition
+  url: https://github.com/HadyAhmed00/SpeechRecognition
+  description:
+    Browser-based speech recognition experiment built on top of the Web Speech API.
+  tags:
+    - JavaScript
+    - Web Speech API
+
+- name: KeyLogger
+  url: https://github.com/HadyAhmed00/CyperSecurty-Task-4-KeyLogger
+  description:
+    Cybersecurity course task — a C# proof-of-concept key-logger used to study
+    detection and defence techniques.
+  tags:
     - C#
-    - Material Design
+    - Cybersecurity
 
-- name: Git for Wizards
-  featured: true
-  url: https://github.com/YoussefRaafatNasry/git-for-wizards/
+- name: AAng
+  url: https://github.com/HadyAhmed00/AAng
   description:
-    A repo about, yeah you guessed it right, Git & GitHub where I expose most of the magic
-    spells that I have learned and the magic wands that I use regularly.
+    Static landing page built with plain HTML and CSS.
   tags:
-    - Git
-    - GitHub
-
-- name: CP Journey
-  url: https://github.com/YoussefRaafatNasry/cp-journey/
-  description:
-    Learning a lot of data structures and algorithms and solving much more problems
-    to improve my problem solving and critical thinking skills.
-  tags:
-    - Competitive Programming
-
-- name: DRG
-  url: https://github.com/YoussefRaafatNasry/dummy-repo-generator/
-  description:
-    A bash script to generate git repository with dummy commits, helpful for educational
-    purposes and to try new git commands without destroying real-life repositories.
-  tags:
-    - Bash
-    - Script
-
-- name: Identicon Generator
-  url: https://github.com/YoussefRaafatNasry/identicon-generator/
-  description:
-    An Identicon is a visual representation of a hash value, usually of an IP address,
-    that serves to identify a user of a computer system as a form of avatar while
-    protecting the users' privacy.
-  tags:
-    - JavaFX
-    - Java
-
-- name: BST ASCII Visualization
-  url: https://github.com/YoussefRaafatNasry/bst-ascii-visualization/
-  description:
-    A command line tool for visualizing Binary Search Trees using an algorithm
-    I have developed myself from multiple algorithms that are available in
-    my case study.
-  tags:
-    - C++
-    - Data Visualization
-
-- name: RESx
-  url: https://resx.github.io/
-  tagline: Courses' materials and resources
-  description:
-    An unofficial community for collaboration to update and organize learning
-    resources of Faculty of Computer and Information Sciences at Ain Shams University.
-  tags:
-    - Jekyll
     - HTML
-    - Sass
-    - GitHub API
-
-- name: v1
-  url: https://YoussefRaafatNasry.github.io/v1/
-  description:
-    First iteration of my personal website. It was a light theme, so not a big deal...
-  tags:
-    - Jekyll
+    - CSS

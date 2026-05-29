@@ -1,6 +1,6 @@
 resume:
   name: resume
-  url: https://docs.google.com/document/d/1IUDXlrmKFvhkr0-P2bP3NlsNMESeCzCvJoOiXRYIRz4/export?format=pdf
+  url: /assets/Hady-Ahmed-CV.pdf
 
 github:
   name: gh
@@ -14,3 +14,6 @@ mail:
   name: ma
   url: mailto:hadyahmed5000@gmail.com
 
+h5:
+  name: 5H-Tech
+  url: https://github.com/5H-Tech

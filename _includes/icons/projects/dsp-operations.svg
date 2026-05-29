@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <title>project</title>
+    <path d="M4,6A2,2,0,0,1,6,4H26a2,2,0,0,1,2,2V26a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2Zm2.5,1.5v17h19v-17Z"/>
+    <rect x="9" y="11" width="14" height="2"/>
+    <rect x="9" y="15" width="14" height="2"/>
+    <rect x="9" y="19" width="9" height="2"/>
+</svg>

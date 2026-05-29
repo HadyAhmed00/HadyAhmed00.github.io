@@ -1,27 +1,26 @@
 languages:
-  - Java
   - Kotlin
-  - C++
+  - Java
+  - Dart
+  - C#
   - Python
-  - HTML5
-  - CSS3 
-  - SQL
+  - C++
   - JavaScript
+  - SQL
 
 frameworks:
   - Android
-  - .nef 
+  - Jetpack Compose
+  - Flutter
+  - Room
+  - Retrofit
   - Vue.js
-  
-
 
 tools:
   - Git / GitHub
-  - Databases
   - Firebase
-  - Visual Studio
-  - Visual Studio Code
+  - AWS S3
+  - CI/CD
   - Android Studio
   - Figma
-  - Adobe Photoshop
-  - Adobe Illustrator
+  - Adobe Creative Cloud
